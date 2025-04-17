@@ -27,6 +27,11 @@ Originally from [GPT-RAG](https://github.com/Azure/gpt-rag)
 
 Imagine you are a sales manager at Contoso, a multinational retail company that sells outdoor equipment. You need to analyze sales data to find trends, understand customer preferences, and make informed business decisions. To help you, Contoso has developed a conversational agent that can answer questions about your sales data.
 
+### Core Assets
+* [Microhack Repository](https://github.com/microsoft/microhacks-rag-ai)
+* [Microhack Deck - Agentic AI](docs/Microhack%20Deck%20-%20RAG%20AI.pptx)
+* [Microhack Challenges](docs/Microhack%20Challenges%20-%20RAG%20AI.pdf)
+
 ### What you will learn
 
 By the end of this workshop, you will learn to build an agent app using Azure AI for RAG, Azure AI Search, explore its tools, and effectively use instructions to guide the LLM.
