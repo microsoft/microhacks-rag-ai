@@ -26,7 +26,7 @@ openai==1.42.0
 tenacity==8.5.0
 
 # Web and async dependencies
-aiohttp==3.9.0b0
+aiohttp==3.11.0b0
 webvtt-py==0.5.1
 
 # DO NOT include azure-functions-worker in this file
