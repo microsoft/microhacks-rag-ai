@@ -23,7 +23,7 @@
     "react": "^18.2.0",
     "react-doc-viewer": "^0.1.5",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.8.1",
+    "react-router-dom": "^7.5.2",
     "universal-cookie": "^4.0.4"
   },
   "devDependencies": {
