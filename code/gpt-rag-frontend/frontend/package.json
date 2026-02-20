@@ -21,7 +21,7 @@
     "marked": "^14.1.2",           
     "microsoft-cognitiveservices-speech-sdk": "^1.27.0",
     "react": "^18.2.0",
-    "react-doc-viewer": "^0.1.5",
+    "react-doc-viewer": "^0.1.15",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.1",
     "universal-cookie": "^4.0.4"
